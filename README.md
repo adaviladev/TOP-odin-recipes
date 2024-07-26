@@ -1,0 +1,1 @@
+This is a simple recipe webpage made for The Odin Project course.
